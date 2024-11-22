@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Machine Learning & Artificial Intelligence & Privacy.
 - 💬 Ask me about anything related to Python/C++.
 - 📫 How to reach me: lb22363@alumni.bristol.ac.uk
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/weixin_43811333?type=blog)
+
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent) -->
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
 
 ### My Skill Set
 

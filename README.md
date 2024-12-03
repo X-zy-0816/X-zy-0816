@@ -1,9 +1,9 @@
 ### Hi there 👋,I'm Zhiyuan.
 
-- 🔭 I am currently conducting charity IT education activities
-- 🌱 I’m currently learning Machine Learning & Artificial Intelligence & Privacy.
+- 🔭 I am currently a PhD. student.
+- 🌱 I’m currently learning LLMs & AI & Secrity.
 - 💬 Ask me about anything related to Python/C++.
-- 📫 How to reach me: lb22363@alumni.bristol.ac.uk
+- 📫 How to reach me: zhiyuan.xu@bristol.ac.uk
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent) -->
